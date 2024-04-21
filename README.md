@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div width="auto">
+  <h1>Hello! I am ITMO student and here you can check my pet projects, university labs etc.</h1>
+</div>
 <!--
 **GreinoX/GreinoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

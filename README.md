@@ -1,5 +1,5 @@
 <div width="auto">
-  <h3 text-align="center">Hi there 👋! I am ITMO student and here you can check my pet projects, university labs etc.</h1>
+  <h3 text-align="center">Hi there 👋! \t I am ITMO student and here you can check my pet projects, university labs etc.</h1>
 </div>
 <!--
 **GreinoX/GreinoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,15 @@
-**About me:** ITMO Student -> Software Engineer
+## I'm Egor Prokofev
 
-**Stack:** JavaScript, React, Python
+**About me:** ITMO Student -> Software Engineering (IS y27)
+
+**Stack:** JavaScript, Python, C#
+
+**Frameworks and Libraries:** React, Django && REST API
 
 **Direct:** Fullstack developer
 
 **Dreams:** Software Architect
 
-**In process of learning:** C#
+**In process of learning:** C#, GoLang
 
-![enter image description here](https://www.codewars.com/users/GreinoX/badges/large)
+![CodeWars stat](https://www.codewars.com/users/GreinoX/badges/large)

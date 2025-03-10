@@ -2,7 +2,7 @@
 
 **About me:** ITMO Student -> Software Engineering (IS y27)
 
-**Stack:** JavaScript, Python, C#
+**Stack:** JavaScript, C#, GoLang, Pl/SQL
 
 **Frameworks and Libraries:** React, Django && REST API
 

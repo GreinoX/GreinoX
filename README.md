@@ -1,6 +1,10 @@
 ## I'm Egor Prokofev
 
-**About me:** ITMO Student -> Software Engineering (IS y27)
+<div>
+  <p>
+    **About me:** ITMO Student -> Software Engineering (IS y27)
+  </p>
+</div>
 
 **Stack:** JavaScript, C#, GoLang, Pl/SQL
 

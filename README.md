@@ -2,7 +2,10 @@
 
 <div>
   <p>
-    **About me:** ITMO Student -> Software Engineering (IS y27)
+    <b>About me:</b> ITMO Student -> Software Engineering (IS y27)
+  </p>
+    <p>
+    <b>Stack:</b> JavaScript, C#, GoLang, Pl/SQL
   </p>
 </div>
 

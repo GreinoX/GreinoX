@@ -6,9 +6,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Egor Prokofev</h1>
+        <h1>Egor Prokofev (Fullstack Dev)</h1>
         <p><strong>ITMO University</strong> - Software Engineering (IS y27)</p>
-        <h2>Fullstack Developer</h2>
         <h3>Tech Stack:</h3>
         <p>
             <span class="badge">JavaScript</span>

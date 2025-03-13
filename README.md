@@ -1,15 +1,13 @@
 ## I'm Egor Prokofev
 
 <div>
-  <p>
+  <p style="color: black">
     <b>About me:</b> ITMO Student -> Software Engineering (IS y27)
   </p>
-    <p>
+  <p>
     <b>Stack:</b> JavaScript, C#, GoLang, Pl/SQL
   </p>
 </div>
-
-**Stack:** JavaScript, C#, GoLang, Pl/SQL
 
 **Frameworks and Libraries:** React, Django && REST API
 

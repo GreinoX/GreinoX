@@ -13,7 +13,8 @@
             <span class="badge">JavaScript,</span>
             <span class="badge">C#,</span>
             <span class="badge">GoLang,</span>
-            <span class="badge">PL/SQL</span>
+            <span class="badge">PL/SQL,</span>
+            <span class="badge">Oracle DB</span>
         </p>
         <h3>Frameworks & Libraries:</h3>
         <p>
